@@ -1,0 +1,2 @@
+# menampilkan prinsip
+import this
